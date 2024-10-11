@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DEVELOPMENT RELATED PROJECTS.
 - 📫 How to reach me --- THROUGH MY SOCIAL MEDIA LINKS.
 - 😄 Pronouns: ... (HE/HIM)
-- ⚡ Fun fact: ... I AM.
+- ⚡ Fun fact: ... I AM MD NAYAJ MONDAL.
 
 <!---
 mdnm18/mdnm18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
