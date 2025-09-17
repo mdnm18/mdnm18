@@ -95,11 +95,13 @@
 
 ---
 
-## 🎉 Fun Corner  
-💬 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
-🐍 Contribution Snake:  
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/mdnm18/mdnm18/blob/output/snake.svg)
+
+---
+
+## 🎉 Fun Corner  
+💬 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
 
 ---
 
