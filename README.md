@@ -98,7 +98,8 @@
 ## 🎉 Fun Corner  
 💬 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
 🐍 Contribution Snake:  
-![Snake animation](https://github.com/mdnm18/mdnm18/blob/output/github-contribution-grid-snake.svg)  
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/mdnm18/mdnm18/blob/output/snake.svg)
 
 ---
 
