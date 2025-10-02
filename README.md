@@ -56,7 +56,6 @@
 👨‍💻 **Technical Team Member** <br/>
 • GeeksforGeeks Campus Body, SRMIST *(Sep – Present)* <br/>
 • Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep – Present)* <br/>
-
 ⬇️ <br/>
 
 ☁️ **AI & Cloud Technology Intern** <br/>
