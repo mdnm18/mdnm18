@@ -1,29 +1,78 @@
+<!-- README.md -->
+
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+NAYAJ+MONDAL;Full-Stack+Developer+💻;Open+Source+Contributor+🌍;Tech+Explorer+🚀;Computer+Science+Engineer+in+making+🫡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+NAYAJ+MONDAL;Full-Stack+Developer+💻;Cloud+and+DevOps+Learner+☁️;Open+Source+Contributor+🌍;Tech+Explorer+🚀;Computer+Science+Engineer+in+making+🫡&loop=true" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views -->
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mdnm18&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
 </p>
 
 <!-- GIF -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="320">
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       alt="Coder GIF" 
+       style="border: 3px solid #333; border-radius: 20px; max-width: 100%; height: auto;" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me  
-- 👀 Interested in **Coding & Development**  
-- 🌱 Currently learning **Java Programming & Advanced Web Development**  
+- 👀 Interested in **Coding & Development**   
 - 💞 Open to collaborate on **Development & Open Source Projects**  
-- 📫 Reach me through **[Social Media Links](#-connect-with-me)**  
+- 📫 Reach me through **[Connect With Me](#-connect-with-me)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **Good design + clean code = magic ✨**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Experiences  
+
+<div align="center" style="max-width: 700px;">
+
+<p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
+
+🎓 **Campus Ambassador** <br/>
+• Jayesta Corporate Entity *(Apr 2025)* <br/>
+• Yhills Edutech *(Mar 2025)* <br/>
+• LetsUpgrade *(May 2025)* <br/>
+• Supernova *(Apr – Nov 2025)* <br/>
+• Internshala *(Sep – Oct 2025)* <br/>
+• Happy People AI *(May – Oct 2025)* <br/>
+⬇️ <br/>
+
+💻 **Full-Stack Web Developer Intern** <br/>
+• Yhills Edutech *(Jun – Sep 2025)* <br/>
+⬇️ <br/>
+
+🌍 **Open Source Contributor** <br/>
+• Open Source Connect India *(OSCI’25, Jul – Sep 2025)* <br/>
+• GirlScript Summer of Code *(GSSoC’25, Jul – Present)* <br/>
+• Hacktoberfest’25 *(Oct 2025)* <br/>
+⬇️ <br/>
+
+👨‍💻 **Technical Team Member** <br/>
+• GeeksforGeeks Campus Body, SRMIST *(Sep – Present)* <br/>
+• Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep – Present)* <br/>
+
+⬇️ <br/>
+
+☁️ **AI & Cloud Technology Intern** <br/>
+• Edunet Foundation *(AICTE Internship, Sep – Present)* <br/>
+⬇️ <br/>
+
+🏦 **SDE Intern** <br/>
+• Bluestock Fintech *(Oct – Nov 2025)* <br/>
+
+</p>
+</div>
+
+---
+
+## 🛠️ Tech Stack 
+<div align="center">
 
 ### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -75,28 +124,24 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-00A1E4?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats  
-
-
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=mdnm18&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnm18&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170"/>
 </p>
 
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnm18&layout=compact&theme=radical&hide_border=true" height="170"/> -->
-</p>
-
-
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnm18&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnm18&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/mdnm18)
 
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/mdnm18/mdnm18/blob/output/snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/mdnm18/mdnm18/blob/output/snake.svg)
+</div>
 
 ---
 
@@ -108,13 +153,13 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://my-portfolio-website-eight-pi.vercel.app/index.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-nayaj-mondal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mdnm18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/MD_N_M_18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/md._n.m._india_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@nexttechypixel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:md.n.m.pius18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://my-portfolio-website-eight-pi.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-nayaj-mondal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mdnm18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/MD_N_M_18" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/md._n.m._india_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@nexttechypixel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:md.n.m.pius18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 📧 **Email:** [md.n.m.pius18@gmail.com](mailto:md.n.m.pius18@gmail.com)  
