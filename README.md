@@ -54,7 +54,7 @@
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member** <br/>
-• GeeksforGeeks Campus Body, SRMIST *(Sep'25 – Present)* <br/>
+• GeeksforGeeks Campus Body, SRMIST *(Technical Domain, Sep'25 – Present)* <br/>
 • Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – Present)* <br/>
 • TEDx SRMIST *(Sponsorship Domain, Sep'25 – Present)* <br/>
 ⬇️ <br/>
