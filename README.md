@@ -48,18 +48,19 @@
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
-• Open Source Connect India *(OSCI’25, Jul – Sep 2025)* <br/>
+• Open Source Connect India *(OSCI’25, Jul – Sep)* <br/>
 • GirlScript Summer of Code *(GSSoC’25, Jul – Present)* <br/>
 • Hacktoberfest’25 *(Oct 2025)* <br/>
 ⬇️ <br/>
 
-👨‍💻 **Technical Team Member** <br/>
-• GeeksforGeeks Campus Body, SRMIST *(Sep – Present)* <br/>
-• Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep – Present)* <br/>
+👨‍💻 🎭 **College Clubs Member** <br/>
+• GeeksforGeeks Campus Body, SRMIST *(Sep'25 – Present)* <br/>
+• Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – Present)* <br/>
+• TEDx SRMIST *(Sponsorship Domain, Sep'25 – Present)* <br/>
 ⬇️ <br/>
 
 ☁️ **AI & Cloud Technology Intern** <br/>
-• Edunet Foundation *(AICTE Internship, Sep – Present)* <br/>
+• Edunet Foundation *(AICTE Internship, Sep'25 – Present)* <br/>
 ⬇️ <br/>
 
 🏦 **SDE Intern** <br/>
