@@ -51,6 +51,7 @@
 • Open Source Connect India *(OSCI’25, Jul – Sep)* <br/>
 • GirlScript Summer of Code *(GSSoC’25, Jul – Oct)* <br/>
 • Hacktoberfest’25 *(Oct 2025)* <br/>
+• Winter of Code Social *(Nov 2025 - Jan 2026)* <br/>
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member** <br/>
