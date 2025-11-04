@@ -148,6 +148,12 @@
 
 ---
 
+## HACKTOBERFEST'25 :
+
+[![An image of @mdnm18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdnm18)](https://holopin.io/@mdnm18)
+
+---
+
 ## 🎉 Fun Corner  
 💬 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
 
