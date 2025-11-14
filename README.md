@@ -43,10 +43,6 @@
 • Happy People AI *(May – Oct 2025)* <br/>
 ⬇️ <br/>
 
-💻 **Full-Stack Web Developer Intern** <br/>
-• Yhills Edutech *(Jun – Sep 2025)* <br/>
-⬇️ <br/>
-
 🌍 **Open Source Contributor** <br/>
 • Open Source Connect India *(OSCI’25, Jul – Sep)* <br/>
 • GirlScript Summer of Code *(GSSoC’25, Jul – Oct)* <br/>
@@ -62,13 +58,11 @@
 • IEEE CS SRMIST *(Web Development Domain, Oct'25 – Present)* <br/>
 ⬇️ <br/>
 
-☁️ **AI & Cloud Technology Intern** <br/>
-• Edunet Foundation *(AICTE Internship, Sep'25 – Present)* <br/>
-⬇️ <br/>
-
-🏦 **SDE Intern** <br/>
-• Bluestock Fintech *(Oct – Nov 2025)* <br/>
-
+🏦 💻 **Internships** <br/>
+• Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
+• AI & Cloud Technology Intern at Edunet Foundation *(AICTE Internship, Sep'25 – Oct'25)* <br/>
+• SDE intern at Bluestock Fintech *(Oct – Nov 2025)* <br/>
+• Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - present)* <br/>
 </p>
 </div>
 
@@ -131,14 +125,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnm18&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170"/>
-</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnm18&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/mdnm18)
-
----
 
 ## 🐍 Contribution Snake  
 <div align="center">
