@@ -125,7 +125,14 @@
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnm18&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170"/>
+</p>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnm18&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/mdnm18)
+
+---
 
 ## 🐍 Contribution Snake  
 <div align="center">
