@@ -10,6 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=mdnm18&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
 </p>
 
+---
+
+<h1 align="center">
+AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
+DSA (Java) | SDE Intern | Open-Source Developer | Freelancer<br/>
+Campus Leader | Tech Content Creator | Teach Community Member
+</h1>
+
+---
+
 <!-- GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
@@ -20,11 +30,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 👀 Interested in **Coding & Development**   
-- 💞 Open to collaborate on **Development & Open Source Projects**  
-- 📫 Reach me through **[Connect With Me](#-connect-with-me)**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **Good design + clean code = magic ✨**  
+I am a proactive 2nd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 5K+ connections on LinkedIn, I love collaborating with like-minded innovators.
 
 ---
 
@@ -34,28 +40,35 @@
 
 <p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
 
-🎓 **Campus Ambassador** <br/>
-• Jayesta Corporate Entity *(Apr 2025)* <br/>
+🎓 **Campus Ambassador/Representative/Expert/Lead** <br/>
 • Yhills Edutech *(Mar 2025)* <br/>
 • LetsUpgrade *(May 2025)* <br/>
 • Supernova *(Apr – Nov 2025)* <br/>
 • Internshala *(Sep – Oct 2025)* <br/>
 • Happy People AI *(May – Oct 2025)* <br/>
+• Open Source Connect Global 2026 *(Dec'25– present)* <br/>
+• Social Winter of Code 2026 *(Dec'25 – present)* <br/>
+• Elite Coders Winter of Code 2026 *(Dec'25 – present)* <br/>
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
 • Open Source Connect India *(OSCI’25, Jul – Sep)* <br/>
 • GirlScript Summer of Code *(GSSoC’25, Jul – Oct)* <br/>
-• Hacktoberfest’25 *(Oct 2025)* <br/>
-• Winter of Code Social *(Nov 2025 - Jan 2026)* <br/>
+• Hacktoberfest’25 *(Oct'25)* <br/>
+• Winter of Code Social *(Nov'25 - Jan'26)* <br/>
+• Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
+• Elite Coders Winter of Code *(ECWoC'26, Jan - Mar)* <br/>
+• Open Source Connect Global *(OSCG'26, Feb - present)* <br/>
 ⬇️ <br/>
 
-👨‍💻 🎭 **College Clubs Member** <br/>
+👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
 • GeeksforGeeks Campus Body, SRMIST *(Technical Domain, Sep'25 – Present)* <br/>
 • Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – Present)* <br/>
 • TEDx SRMIST *(Sponsorship Domain, Sep'25 – Present)* <br/>
-• IEEE & IEEE COMPUTER SOCIETY *(MEMBER, Oct'25 – Present)* <br/>
+• IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
 • IEEE CS SRMIST *(Web Development Domain, Oct'25 – Present)* <br/>
+• React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
+• Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – Present)* <br/>
 ⬇️ <br/>
 
 🏦 💻 **Internships** <br/>
@@ -63,6 +76,8 @@
 • AI & Cloud Technology Intern at Edunet Foundation *(AICTE Internship, Sep'25 – Oct'25)* <br/>
 • SDE intern at Bluestock Fintech *(Oct – Nov 2025)* <br/>
 • Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - present)* <br/>
+• SDE Intern at in22labs *(Dec'25 - present)* <br/>
+• Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dev'25 - present)* <br/>
 </p>
 </div>
 
