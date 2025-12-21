@@ -15,7 +15,7 @@
 <h1 align="center">
 AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
 DSA (Java) | SDE Intern | Open-Source Developer | Freelancer<br/>
-Campus Leader | Tech Content Creator | Teach Community Member
+Campus Leader | Tech Content Creator | Tech Community Member
 </h1>
 
 ---
