@@ -49,7 +49,6 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • Open Source Connect Global 2026 *(Dec'25– present)* <br/>
 • Social Winter of Code 2026 *(Dec'25 – present)* <br/>
 • Elite Coders Winter of Code 2026 *(Dec'25 – present)* <br/>
-• Open-Source Contributor for D3 Community Chennai *(Dec'25)* <br/>
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
@@ -57,9 +56,10 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • GirlScript Summer of Code *(GSSoC’25, Jul – Oct)* <br/>
 • Hacktoberfest’25 *(Oct'25)* <br/>
 • Winter of Code Social *(Nov'25 - Jan'26)* <br/>
+• Open-Source Contributor for D3 Community Chennai *(Dec'25)* <br/>
 • Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
 • Elite Coders Winter of Code *(ECWoC'26, Jan - Mar)* <br/>
-• Open Source Connect Global *(OSCG'26, Feb - present)* <br/>
+• Open Source Connect Global *(OSCG'26, Feb - May)* <br/>
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
