@@ -40,21 +40,26 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 
 <p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
 
+
+🎓 **State Lead (Tamilnadu)** <br/>
+• Elite Coders Winter of Code 2026 *(Jan'26 – March'26)* <br/>
+
 🎓 **Campus Ambassador/Representative/Expert/Lead** <br/>
 • Yhills Edutech *(Mar 2025)* <br/>
 • LetsUpgrade *(May 2025)* <br/>
 • Supernova *(Apr – Nov 2025)* <br/>
 • Internshala *(Sep – Oct 2025)* <br/>
 • Happy People AI *(May – Oct 2025)* <br/>
+• Social Winter of Code 2026 *(Dec'25 – March'26)* <br/>
+• Elite Coders Winter of Code 2026 *(Dec'25 – March'26)* <br/>
 • Open Source Connect Global 2026 *(Dec'25– present)* <br/>
-• Social Winter of Code 2026 *(Dec'25 – present)* <br/>
-• Elite Coders Winter of Code 2026 *(Dec'25 – present)* <br/>
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
 • Open Source Connect India *(OSCI’25, Jul – Sep)* <br/>
 • GirlScript Summer of Code *(GSSoC’25, Jul – Oct)* <br/>
 • Hacktoberfest’25 *(Oct'25)* <br/>
+• Open-Source Contributor for React Kolkata *(Oct'25)* <br/>
 • Winter of Code Social *(Nov'25 - Jan'26)* <br/>
 • Open-Source Contributor for D3 Community Chennai *(Dec'25)* <br/>
 • Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
@@ -63,20 +68,21 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
+• TEDx SRMIST *(Sponsorship Domain, Sep'25 – Feb'26)* <br/>
+• Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
 • GeeksforGeeks Campus Body, SRMIST *(Technical Domain, Sep'25 – Present)* <br/>
 • Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – Present)* <br/>
-• TEDx SRMIST *(Sponsorship Domain, Sep'25 – Present)* <br/>
 • IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
-• IEEE CS SRMIST *(Web Development Domain, Oct'25 – Present)* <br/>
+• IEEE CS SRMIST *(Lead of Web Development Domain, Oct'25 – Present)* <br/>
 • React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
-• Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – Present)* <br/>
+• ACM Student Chapter SRMIST *(Head of Technical Team (Competitive Programming (DSA) + Full Stack Development + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
 ⬇️ <br/>
 
 🏦 💻 **Internships** <br/>
 • Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
 • AI & Cloud Technology Intern at Edunet Foundation *(AICTE Internship, Sep'25 – Oct'25)* <br/>
 • SDE intern at Bluestock Fintech *(Oct – Nov 2025)* <br/>
-• Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - present)* <br/>
+• Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - Jan'26)* <br/>
 • SDE Intern at in22labs *(Dec'25 - present)* <br/>
 • Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dev'25 - present)* <br/>
 </p>
