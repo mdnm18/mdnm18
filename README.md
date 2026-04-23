@@ -52,7 +52,9 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • Happy People AI *(May – Oct 2025)* <br/>
 • Social Winter of Code 2026 *(Dec'25 – March'26)* <br/>
 • Elite Coders Winter of Code 2026 *(Dec'25 – March'26)* <br/>
-• Open Source Connect Global 2026 *(Dec'25– present)* <br/>
+• Open Source Connect Global 2026 *(Dec'25– March'26)* <br/>
+• Social Summer of Code 2026 *(April'26– present)* <br/>
+• Girlscript Summer of Code 2026 *(April'26– present)* <br/>
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
@@ -65,17 +67,20 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
 • Elite Coders Winter of Code *(ECWoC'26, Jan - Mar)* <br/>
 • Open Source Connect Global *(OSCG'26, Feb - May)* <br/>
+• Girlscript Summer of Code 2026 *(GSSoC'26, May'26– present)* <br/>
+• Social Summer of Code 2026 *(SSoC'26, June'26– present)* <br/>
+
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
-• TEDx SRMIST *(Sponsorship Domain, Sep'25 – Feb'26)* <br/>
-• Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
-• GeeksforGeeks Campus Body, SRMIST *(Technical Domain, Sep'25 – Present)* <br/>
-• Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – Present)* <br/>
+• Ex-TEDx SRMIST *(Sponsorship Domain, Sep'25 – Feb'26)* <br/>
+• Ex-Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
+• Ex-Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – May'26)* <br/>
+• GeeksforGeeks Campus Body, SRMIST *(Joint Secretary, Sep'25 – Present)* <br/>
 • IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
 • IEEE CS SRMIST *(Lead of Web Development Domain, Oct'25 – Present)* <br/>
 • React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
-• ACM Student Chapter SRMIST *(Head of Technical Team (Competitive Programming (DSA) + Full Stack Development + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
+• ACM Student Chapter SRMIST *(Head of Technical Team (Competitive Programming + Web Dev + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
 ⬇️ <br/>
 
 🏦 💻 **Internships** <br/>
@@ -83,7 +88,7 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • AI & Cloud Technology Intern at Edunet Foundation *(AICTE Internship, Sep'25 – Oct'25)* <br/>
 • SDE intern at Bluestock Fintech *(Oct – Nov 2025)* <br/>
 • Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - Jan'26)* <br/>
-• SDE Intern at in22labs *(Dec'25 - present)* <br/>
+• SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
 • Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dev'25 - present)* <br/>
 </p>
 </div>
