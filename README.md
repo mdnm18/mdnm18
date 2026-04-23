@@ -30,7 +30,7 @@ Campus Leader | Tech Content Creator | Tech Community Member | Curious to unders
 ---
 
 ## 👨‍💻 About Me  
-I am a proactive 2nd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 5K+ connections on LinkedIn, I love collaborating with like-minded innovators.
+I am a proactive 2nd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 7K+ connections on LinkedIn, I love collaborating with like-minded innovators.
 
 ---
 
