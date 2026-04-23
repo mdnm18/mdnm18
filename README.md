@@ -44,7 +44,7 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 🎓 **State Lead (Tamilnadu)** <br/>
 • Elite Coders Winter of Code 2026 *(Jan'26 – March'26)* <br/>
 
-🎓 **Campus Ambassador/Representative/Expert/Lead** <br/>
+🎓 **Campus Advocate/Ambassador/Representative/Expert/Lead** <br/>
 • Yhills Edutech *(Mar 2025)* <br/>
 • LetsUpgrade *(May 2025)* <br/>
 • Supernova *(Apr – Nov 2025)* <br/>
@@ -67,8 +67,8 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
 • Elite Coders Winter of Code *(ECWoC'26, Jan - Mar)* <br/>
 • Open Source Connect Global *(OSCG'26, Feb - May)* <br/>
-• Girlscript Summer of Code 2026 *(GSSoC'26, May'26– present)* <br/>
-• Social Summer of Code 2026 *(SSoC'26, June'26– present)* <br/>
+• Girlscript Summer of Code 2026 *(GSSoC'26, May – present)* <br/>
+• Social Summer of Code 2026 *(SSoC'26, June – present)* <br/>
 
 ⬇️ <br/>
 
