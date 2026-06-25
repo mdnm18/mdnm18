@@ -14,7 +14,7 @@
 
 <h1 align="center">
 AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
-DSA (Java) | SDE Intern | Open-Source Developer | Freelancer<br/>
+DSA (Java) | Mentee at LFX'26 (LFDT'26 Mentorship Program) | Ex-SDE Intern | Open-Source Developer | Freelancer<br/>
 Campus Leader | Tech Content Creator | Tech Community Member | Curious to understand System Design principles
 </h1>
 
@@ -30,7 +30,7 @@ Campus Leader | Tech Content Creator | Tech Community Member | Curious to unders
 ---
 
 ## 👨‍💻 About Me  
-I am a proactive 2nd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 8K+ connections on LinkedIn, I love collaborating with like-minded innovators.
+I am a 3rd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 8K+ connections on LinkedIn, I love collaborating with like-minded innovators.
 
 ---
 
@@ -40,21 +40,15 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 
 <p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
 
+🏦 💻 **Internships** <br/>
+• Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
+• SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
+• Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dec'25 - present)* <br/>
+• HR Executive Intern at Accemberg Technologies Pvt. Ltd. *(June'25 - present)* <br/>
+⬇️ <br/>
 
 🎓 **State Lead (Tamilnadu)** <br/>
 • Elite Coders Winter of Code 2026 *(Jan'26 – March'26)* <br/>
-
-🎓 **Campus Advocate/Ambassador/Representative/Expert/Lead** <br/>
-• Yhills Edutech *(Mar 2025)* <br/>
-• LetsUpgrade *(May 2025)* <br/>
-• Supernova *(Apr – Nov 2025)* <br/>
-• Internshala *(Sep – Oct 2025)* <br/>
-• Happy People AI *(May – Oct 2025)* <br/>
-• Social Winter of Code 2026 *(Dec'25 – March'26)* <br/>
-• Elite Coders Winter of Code 2026 *(Dec'25 – March'26)* <br/>
-• Open Source Connect Global 2026 *(Dec'25– March'26)* <br/>
-• Social Summer of Code 2026 *(April'26– present)* <br/>
-• Girlscript Summer of Code 2026 *(April'26– present)* <br/>
 ⬇️ <br/>
 
 🌍 **Open Source Contributor** <br/>
@@ -69,7 +63,22 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • Open Source Connect Global *(OSCG'26, Feb - May)* <br/>
 • Girlscript Summer of Code 2026 *(GSSoC'26, May – present)* <br/>
 • Social Summer of Code 2026 *(SSoC'26, June – present)* <br/>
+• Mentee at Linux Foundation Decentralized Trust Mentorship Program (BiniBFT) *(LFX'26, June – present)* <br/>
+⬇️ <br/>
 
+🎓 **Campus Advocate/Ambassador/Representative/Expert/Lead** <br/>
+• Yhills Edutech *(Mar 2025)* <br/>
+• LetsUpgrade *(May 2025)* <br/>
+• Supernova *(Apr – Nov 2025)* <br/>
+• Internshala *(Sep – Oct 2025)* <br/>
+• Happy People AI *(May – Oct 2025)* <br/>
+• Social Winter of Code 2026 *(Dec'25 – March'26)* <br/>
+• Elite Coders Winter of Code 2026 *(Dec'25 – March'26)* <br/>
+• Open Source Connect Global 2026 *(Dec'25– March'26)* <br/>
+• Social Summer of Code 2026 *(April'26– present)* <br/>
+• Girlscript Summer of Code 2026 *(April'26– present)* <br/>
+• Air India Limited *(June'26– present)* <br/>
+• IEEE Region 10 Adhoc Committee on Entrepreneurship and Innovation (ACEI) *(June'26– present)* <br/>
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
@@ -80,16 +89,8 @@ I am a proactive 2nd-year Computer Science & Engineering student at SRM Institut
 • IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
 • IEEE CS SRMIST *(Lead of Web Development Domain, Oct'25 – Present)* <br/>
 • React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
-• ACM Student Chapter SRMIST *(Head of Technical Team (Competitive Programming + Web Dev + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
-⬇️ <br/>
-
-🏦 💻 **Internships** <br/>
-• Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
-• AI & Cloud Technology Intern at Edunet Foundation *(AICTE Internship, Sep'25 – Oct'25)* <br/>
-• SDE intern at Bluestock Fintech *(Oct – Nov 2025)* <br/>
-• Full-Stack Web Developer Intern at ASTROSPACIOUS *(Nov'25 - Jan'26)* <br/>
-• SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
-• Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dev'25 - present)* <br/>
+• ACM *(Membership, March'26 – Present)* <br/>
+• ACM Student Chapter SRMIST *(Head of Technical Team (C.P. + Web Dev + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
 </p>
 </div>
 
