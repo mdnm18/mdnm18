@@ -13,7 +13,7 @@
 ---
 
 <h1 align="center">
-AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
+AI-Native Full Stack Developer (P/MERN + Cloud (AWS) & DevOps)<br/>
 DSA (Java) | Mentee at LFX'26 | Ex-SDE Intern | Open-Source Developer | Freelancer<br/>
 Campus Leader | Tech Content Creator | Organising Tech Events | Exploring System Design principles
 </h1>
