@@ -14,8 +14,8 @@
 
 <h1 align="center">
 AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
-DSA (Java) | Mentee at LFX'26 (LFDT'26 Mentorship Program) | Ex-SDE Intern | Open-Source Developer | Freelancer<br/>
-Campus Leader | Tech Content Creator | Tech Community Member | Curious to understand System Design principles
+DSA (Java) | Mentee at LFX'26 | Ex-SDE Intern | Open-Source Developer | Freelancer<br/>
+Campus Leader | Tech Content Creator | Organising Tech Events | Exploring System Design principles
 </h1>
 
 ---
@@ -41,10 +41,12 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 <p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
 
 🏦 💻 **Internships** <br/>
-• Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
-• SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
+• Ex-Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
+• Ex-SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
+• Founder & Tech Content Creator at Next Techy Pixel *(YT & Media Production Company, June'25 – Present)* <br/>
 • Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dec'25 - present)* <br/>
-• HR Executive Intern at Accemberg Technologies Pvt. Ltd. *(June'25 - present)* <br/>
+• HR Executive Intern at Accemberg Technologies Pvt. Ltd. *(June'26 - present)* <br/>
+• Marketing and Operations Intern at CA-Nandini Agarwal's Internal Team (Level Up) *(August'26 - present)* <br/>
 ⬇️ <br/>
 
 🎓 **State Lead (Tamilnadu)** <br/>
@@ -82,13 +84,13 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
-• Ex-TEDx SRMIST *(Sponsorship Domain, Sep'25 – Feb'26)* <br/>
-• Ex-Elite Coders Winter of Code 2026 *(Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
-• Ex-Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – May'26)* <br/>
+• Ex-Member at TEDx SRMIST *(Sponsorship Domain, Sep'25 – Feb'26)* <br/>
+• Ex-Member at Elite Coders Winter of Code 2026 *(ex-Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
+• Ex-Member at Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – May'26)* <br/>
+• Ex-Member at IEEE CS SRMIST *(ex-Lead of Web Development Domain, Oct'25 – July'26)* <br/>
 • GeeksforGeeks Campus Body, SRMIST *(Joint Secretary, Sep'25 – Present)* <br/>
-• IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
-• IEEE CS SRMIST *(Lead of Web Development Domain, Oct'25 – Present)* <br/>
 • React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
+• IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
 • ACM *(Membership, March'26 – Present)* <br/>
 • ACM Student Chapter SRMIST *(Head of Technical Team (C.P. + Web Dev + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
 </p>
