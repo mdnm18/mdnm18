@@ -10,6 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=mdnm18&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mdnm18's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ---
 
 <h1 align="center">
