@@ -37,7 +37,7 @@ Campus Leader | Tech Content Creator | Organising Tech Events | Exploring System
 ---
 
 ## 👨‍💻 About Me  
-I am a 3rd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 9K+ connections on LinkedIn, I love collaborating with like-minded innovators.
+I am a 3rd-year Computer Science & Engineering student at SRM Institute of Science and Technology (KTR Campus), originally from Malda, West Bengal. My journey is defined by a relentless passion for technology (120%), a "work is worship" philosophy, & a drive to build solutions that impact society. I am a keen observer of Nature & Situation. Adaptable with a flexible mindset for any environment and situation. Inspired by my mom ❤️, I stay grounded, adaptable, & dedicated. With a network of 10K+ connections on LinkedIn, I love collaborating with like-minded innovators.
 
 ---
 
@@ -48,12 +48,12 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 <p align="center" style="font-size: 1.1rem; line-height: 2.2rem;">
 
 🏦 💻 **Internships** <br/>
+• Founder & Tech Content Creator at Next Techy Pixel *(YT & Media Production Company, June'25 – Present)* <br/>
 • Ex-Full-Stack Web Developer Intern at Yhills Edutech *(Jun – Sep 2025)* <br/>
 • Ex-SDE Intern at in22labs *(Dec'25 - Feb'26)* <br/>
-• Founder & Tech Content Creator at Next Techy Pixel *(YT & Media Production Company, June'25 – Present)* <br/>
-• Frontend Web Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dec'25 - present)* <br/>
-• HR Executive Intern at Accemberg Technologies Pvt. Ltd. *(June'26 - present)* <br/>
-• Marketing and Operations Intern at CA-Nandini Agarwal's Internal Team (Level Up) *(August'26 - present)* <br/>
+• HR Executive Intern at Accemberg Technologies Pvt. Ltd. *(June'26 - Aug'26)* <br/>
+• Marketing and Operations Intern at CA-Nandini Agarwal's Internal Team (Level Up) *(August'26)* <br/>
+• Frontend Web Designer & Developer Intern at BiniWorld Innovation Pvt. Ltd. *(Dec'25 - Oct'26)* <br/>
 ⬇️ <br/>
 
 🎓 **State Lead (Tamilnadu)** <br/>
@@ -70,8 +70,8 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 • Social Winter of Code *(SWoC'26, Jan - Mar)* <br/>
 • Elite Coders Winter of Code *(ECWoC'26, Jan - Mar)* <br/>
 • Open Source Connect Global *(OSCG'26, Feb - May)* <br/>
-• Girlscript Summer of Code 2026 *(GSSoC'26, May – present)* <br/>
-• Social Summer of Code 2026 *(SSoC'26, June – present)* <br/>
+• Girlscript Summer of Code 2026 *(GSSoC'26, May – Sep)* <br/>
+• Social Summer of Code 2026 *(SSoC'26, June – Sep)* <br/>
 • Mentee at Linux Foundation Decentralized Trust Mentorship Program (BiniBFT) *(LFX'26, June – present)* <br/>
 ⬇️ <br/>
 
@@ -84,10 +84,11 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 • Social Winter of Code 2026 *(Dec'25 – March'26)* <br/>
 • Elite Coders Winter of Code 2026 *(Dec'25 – March'26)* <br/>
 • Open Source Connect Global 2026 *(Dec'25– March'26)* <br/>
-• Social Summer of Code 2026 *(April'26– present)* <br/>
-• Girlscript Summer of Code 2026 *(April'26– present)* <br/>
-• Air India Limited *(June'26– present)* <br/>
+• Social Summer of Code 2026 *(April – Sep)* <br/>
+• Girlscript Summer of Code 2026 *(April – Sep)* <br/>
+• Air India Limited *(June'26– Aug'26)* <br/>
 • IEEE Region 10 Adhoc Committee on Entrepreneurship and Innovation (ACEI) *(June'26– present)* <br/>
+• Unstop Campus Ambassador *(Aug'26– present)* <br/>
 ⬇️ <br/>
 
 👨‍💻 🎭 **College Clubs Member and Other Local Community Member** <br/>
@@ -95,11 +96,11 @@ I am a 3rd-year Computer Science & Engineering student at SRM Institute of Scien
 • Ex-Member at Elite Coders Winter of Code 2026 *(ex-Core Member, PR & Outreach Team, Dec'25 – March'26)* <br/>
 • Ex-Member at Team Envision, Aaruush *(Web Development Domain and Cloud & DevOps Domain, Sep'25 – May'26)* <br/>
 • Ex-Member at IEEE CS SRMIST *(ex-Lead of Web Development Domain, Oct'25 – July'26)* <br/>
-• GeeksforGeeks Campus Body, SRMIST *(Joint Secretary, Sep'25 – Present)* <br/>
-• React Kolkata *(Core Community Member, Dec'25 – Present)* <br/>
-• IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Present)* <br/>
+• IEEE & IEEE COMPUTER SOCIETY *(Membership, Oct'25 – Oct'26)* <br/>
+• GeeksforGeeks Campus Body, SRMIST *(Ex-Joint Secretary and Current Technical Director, Sep'25 – Present)* <br/>
+• React Kolkata *(Core Community Member (Organiser), Dec'25 – Present)* <br/>
 • ACM *(Membership, March'26 – Present)* <br/>
-• ACM Student Chapter SRMIST *(Head of Technical Team (C.P. + Web Dev + Cloud & DevOps + AI/ML + MLOps), March'26 – Present)* <br/>
+• ACM Student Chapter SRMIST *(Ex-Head of Technical Domain and Current WebMaster, March'26 – Present)* <br/>
 </p>
 </div>
 
